@@ -1,4 +1,5 @@
 # odin-recipes
+
 HTML Practice Project from the The Odin Project
 
 This project is about making a Recipe Website using HTML basics
