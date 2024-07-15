@@ -35,14 +35,15 @@
 
 .portal-button {
 
-    a:link {
-        color: white;
-        text-decoration: none;
-        font-family: cursive
-    }
+a:link {
+    color: white;
+    text-decoration: none;
+    font-family: cursive
+}
 
     background-color: grey;
-    color: white;
     padding: 20px;
+    font-size: 20px;
+    border: 0px;
 }
 
